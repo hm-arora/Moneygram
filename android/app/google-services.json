@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790452257827",
+    "project_id": "moneygram-labs",
+    "storage_bucket": "moneygram-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790452257827:android:ae79281ea65b28dd115d96",
+        "android_client_info": {
+          "package_name": "com.source.moneygram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790452257827-3vs4pvfj5bkn4v0jao60su1s3827ucqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.source.moneygram",
+            "certificate_hash": "45b76c533ec1ac39c5eb4c98ef647feecdb15476"
+          }
+        },
+        {
+          "client_id": "790452257827-s3nf6vg78r0e5knnqqgc9e1dnr2gdi2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjnxaRwbRCNP7Qzl26yKoSwQg0Njzkza0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790452257827-s3nf6vg78r0e5knnqqgc9e1dnr2gdi2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
